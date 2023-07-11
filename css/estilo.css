@@ -1,0 +1,21 @@
+#columna{
+
+    display: inline-block;
+    text-align: center;
+   
+    width: 30%;
+}
+h1{
+    text-align: center;
+}
+section{
+    text-align: center;
+
+}
+#contenedor{
+    background-color: rgb(133, 155, 6);
+}
+h5{
+    color: aquamarine;
+    font-family: Arial, Helvetica, sans-serif;
+}
